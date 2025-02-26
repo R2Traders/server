@@ -6,3 +6,4 @@ ID;Data;Nome;TLUserName
 100000005;05.05.2500;Jonathan Ribeiro dos Santos (1);kinkaskubu
 100000005;05.05.2500;Jonathan Ribeiro dos Santos (2);kinkaskubu
 100000005;05.05.2500;Daniel Sousa;Foca0
+100000005;05.05.2500;Carlos Alexandre Cardoso Veiga;CATELEENTREGA
