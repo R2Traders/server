@@ -44,3 +44,4 @@ ID;Data;Nome;TLUserName
 90000009;05.05.2500;Renan Oliveira;RenanOliveira31
 90000009;Jose Carlos Miguel;arigatoJapasan
 90000009;05.05.2500;Alexandre Mendes Gallo;gcoptionsuporte
+90000009;05.05.2500;Ricardo Righetti Ramos;RicardoRRamos
