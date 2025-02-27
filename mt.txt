@@ -46,5 +46,5 @@ ID;Data;Nome;TLUserName
 62022887;05.05.2500;Alexandre Mendes Gallo;alezaotrader
 90000009;05.05.2500;Ricardo Righetti Ramos;RicardoRRamos
 7137644;05.05.2500;Mojtaba Tavaf;BINOPTSIG
-90000009;05.05.2500;Rodrigo de Aquino Sousa;Aquino_Trader
+62137099;05.05.2500;Rodrigo de Aquino Sousa;Aquino_Trader
 62137143;05.05.2500;Olisses Neto;olissesneto
