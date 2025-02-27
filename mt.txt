@@ -48,3 +48,4 @@ ID;Data;Nome;TLUserName
 7137644;05.05.2500;Mojtaba Tavaf;BINOPTSIG
 62137099;05.05.2500;Rodrigo de Aquino Sousa;Aquino_Trader
 62137143;05.05.2500;Olisses Neto;olissesneto
+90000009;05.05.2500;Malone Reis;Malone_Silva
