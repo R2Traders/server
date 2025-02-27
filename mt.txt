@@ -3,7 +3,7 @@ ID;Data;Nome;TLUserName
 100269594;05.05.2500;R2 PC;R2Traders
 100269594;05.05.2500;R2 (2);R2Traders
 100269594;05.05.2500;R2 (VPS);R2Traders
-100000005;05.05.2500;Jonathan Ribeiro dos Santos (1);kinkaskubu
+101472955;05.05.2500;Jonathan Ribeiro dos Santos (1);kinkaskubu
 100000005;05.05.2500;Jonathan Ribeiro dos Santos (2);kinkaskubu
 5697728;05.05.2500;Daniel Sousa;Foca0
 31320263;05.05.2500;Carlos Alexandre Cardoso Veiga;CATELEENTREGA
