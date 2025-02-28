@@ -55,3 +55,4 @@ ID;Data;Nome;TLUserName
 31802247;05.05.2500;Jefferson Douglas;JeffersonDSantoss
 90000009;05.05.2500;Marcos Vinicius;analistamarcos
 40349626;05.05.2500;Abel Andrade;cariocap
+90000009;05.05.2500;Douglas Moreira Nunes;dougpips
