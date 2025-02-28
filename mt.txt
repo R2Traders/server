@@ -44,7 +44,7 @@ ID;Data;Nome;TLUserName
 90000009;05.05.2500;Renan Oliveira;RenanOliveira31
 90000009;Jose Carlos Miguel;arigatoJapasan
 62022887;05.05.2500;Alexandre Mendes Gallo;alezaotrader
-90000009;05.05.2500;Ricardo Righetti Ramos;RicardoRRamos
+90596863;05.05.2500;Ricardo Righetti Ramos;RicardoRRamos
 7137644;05.05.2500;Mojtaba Tavaf;BINOPTSIG
 62137099;05.05.2500;Rodrigo de Aquino Sousa;Aquino_Trader
 62137143;05.05.2500;Olisses Neto;olissesneto
