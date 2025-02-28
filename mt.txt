@@ -56,3 +56,4 @@ ID;Data;Nome;TLUserName
 90000009;05.05.2500;Marcos Vinicius;analistamarcos
 40349626;05.05.2500;Abel Andrade;cariocap
 195201205;05.05.2500;Douglas Moreira Nunes;dougpips
+90000009;05.05.2500;Eduardo Hitoshi Otsuka;EduardoOtk
