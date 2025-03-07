@@ -65,3 +65,4 @@ ID;Data;Nome;TLUserName
 62119769;05.05.2500;Charles Sousa de Jesus;charlespjo
 62140111;05.05.2500;Eron Batista Horacek;Eronbat
 27518003;05.05.2500;Ammari Abdelhakim;hakimoos
+90000009;05.05.2500;Lucio Adalberto Santos Filho;LucioSantos18
