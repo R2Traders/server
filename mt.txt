@@ -5,7 +5,7 @@ ID;Data;Nome;TLUserName
 100269594;05.05.2500;R2 (VPS);R2Traders
 101472955;05.05.2500;Jonathan Ribeiro dos Santos (1);kinkaskubu
 100000005;05.05.2500;Jonathan Ribeiro dos Santos (2);kinkaskubu
-5697728;05.05.2500;Daniel Sousa;Foca0
+10609498;05.05.2500;Daniel Sousa;Foca0
 31320263;05.05.2500;Carlos Alexandre Cardoso Veiga;CATELEENTREGA
 27262559;05.05.2500;Wellington Alves de Souza;Group_Beast
 26080616;05.05.2500;Adauri Carvalho;dogblack21
