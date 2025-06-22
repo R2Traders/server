@@ -18,7 +18,7 @@ ID;Data;Nome;TLUserName
 90000009;05.05.2500;Ruben Lopez (2);RUBENTEXMEX
 40293972;05.05.2500;Renan Oliveira;RenanOliveira31
 62136873;05.05.2500;Vando Jose dos Santos de Almeida;vandofiel
-68198320;05.05.2500;James Luiz Lima Gestal;JS_TRADERS
+68198320;05.05.2500;James Luiz Lima Gestal;JSTRADERSS
 40497474;05.05.2500;Renier de Souza Santos Filho;souzarenier
 40651185;05.05.2500;Carlos Ka;Carlosp298
 83023769;05.05.2500;Marcelo Cardoso;MarceloCardoso13
