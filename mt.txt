@@ -75,6 +75,7 @@ ID;Data;Nome;TLUserName
 360538262;05.05.2500;Warut Boonpakdee;vsig_support01
 31916113;05.05.2500;Caio Cezar;darkbrsp
 101163955;05.05.2500;Leandro Barradas;drongitis
-61363010;05.05.2500;Evaldo Carneiro Santos
-11591869;05.05.2500;Matheus Gama Fernandes (1)
-195777226;05.05.2500;Matheus Gama Fernandes (2)
+61363010;05.05.2500;Evaldo Carneiro Santos;Suporte_fdefenixbot
+11591869;05.05.2500;Matheus Gama Fernandes (1);SuporteOmanual
+195777226;05.05.2500;Matheus Gama Fernandes (2);SuporteOmanual
+40827108;05.05.2500;Jonathan Aguiar;JonathanAguiar7
