@@ -79,3 +79,4 @@ ID;Data;Nome;TLUserName
 11591869;05.05.2500;Matheus Gama Fernandes (1);SuporteOmanual
 195777226;05.05.2500;Matheus Gama Fernandes (2);SuporteOmanual
 40827108;05.05.2500;Jonathan Aguiar;JonathanAguiar7
+25960120;05.05.2500;Rosangela Moreira;ROSANGELAAUXILIADORASILVAMOREIRA
