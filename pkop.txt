@@ -1,3 +1,4 @@
 email;Date;Name
 r2traders.contato@gmail.com;05.05.2026;Ramon Rocha
+ramon.rly@gmail.com;05.05.2026;Ramon Rocha
 carolfonseca92@gmail.com;05.05.2026;Carol Fonseca
