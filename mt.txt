@@ -7,7 +7,7 @@ ID;Data;Nome;TLUserName
 40614124;05.05.2500;Jonathan Ribeiro dos Santos (2);jonhr21
 40651493;05.05.2500;Daniel Sousa;Foca0
 5786594;05.05.2500;Carlos Alexandre Cardoso Veiga;CATELEENTREGA
-27262559;05.05.2500;Wellington Alves de Souza;Group_Beast
+40960288;05.05.2500;Wellington Alves de Souza;Group_Beast
 26080616;05.05.2500;Adauri Carvalho;dogblack21
 40679900;05.05.2500;Adriano Honorio Batista;adrianobatista_5
 822446;05.05.2500;Rafael Miranda;noodle1987
