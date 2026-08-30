@@ -3,7 +3,7 @@ ID;Data;Nome;TLUserName
 100269594;05.05.2500;R2 PC;R2Traders
 62140589;05.05.2500;R2 (2);R2Traders
 100269594;05.05.2500;R2 (VPS);R2Traders
-4439812393;05.05.2500;Flavio Pires de Lima;FLimaDigital
+27471593;05.05.2500;Flavio Pires de Lima;FLimaDigital
 5039812393;05.05.2500;Jonathan Ribeiro dos Santos (1);jonhr21
 41015413;05.05.2500;Jonathan Ribeiro dos Santos (2);jonhr21
 40651493;05.05.2500;Daniel Sousa;Foca0
