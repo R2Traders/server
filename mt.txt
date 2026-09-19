@@ -19,6 +19,7 @@ ID;Data;Nome;TLUserName
 90000009;05.05.2500;Ruben Lopez (1);RUBENTEXMEX
 90000009;05.05.2500;Ruben Lopez (2);RUBENTEXMEX
 32171706;05.05.2500;Renan Oliveira;RenanOliveira31
+55171706;05.05.2500;Norberto Paulino de Oliveira;NorbertoOliveira66
 62136873;05.05.2500;Vando Jose dos Santos de Almeida;vandofiel
 68198320;05.05.2500;James Luiz Lima Gestal;JSTRADERSS
 22198320;05.05.2500;Tiago Leal Campos;TiagoCampos26
