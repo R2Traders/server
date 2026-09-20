@@ -1,5 +1,6 @@
 ID;Data;Nome;TLUserName
 406564189;05.05.2500;Marcelo de Souza da Silva;onetradersuporte
+10308518;05.05.2500;Norberto Paulino de Oliveira;NorbertoOliveira66
 106564189;05.05.2500;R2;R2Traders
 106564189;05.05.2500;R2;R2Traders
 100269594;05.05.2500;R2 PC;R2Traders
