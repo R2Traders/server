@@ -1,7 +1,7 @@
 ID;Data;Nome;TLUserName
 501166225;05.05.2500;Felipe Lopez;FLD2025
 55166185;05.05.2500;Ulisses Bernardo de Andrade;gagosp
-67166185;05.05.2500;Renzo Menezes;renzomenezes
+202358877;05.05.2500;Renzo Menezes;renzomenezes
 32414636;05.05.2500;Rubems Lopez;RUBENTEXMEX
 26142398;05.05.2500;Marcelo de Souza da Silva;onetradersuporte
 208039;05.05.2500;Marcelo de Souza da Silva;onetradersuporte
@@ -82,7 +82,7 @@ ID;Data;Nome;TLUserName
 27518003;05.05.2500;Ammari Abdelhakim;hakimoos
 40510161;05.05.2500;Lucio Adalberto Santos Filho;LucioSantos18
 130060536;05.05.2500;Renato Rocha;renatorocha44
-31807403;05.05.2500;Aguinaldo da Silva Maza;AguinaldoMazza
+480242739;05.05.2500;Aguinaldo da Silva Maza;AguinaldoMazza
 960017020;05.05.2500;Ciobanu Cosmin;Cosminteofil6
 40651185;05.05.2500;Carlos Ka;Carlosp298
 98936576;05.05.2500;Faisal Ahmed Roman;brunolmfao
