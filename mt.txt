@@ -4,7 +4,7 @@ ID;Data;Nome;TLUserName
 202358877;05.05.2500;Renzo Menezes;renzomenezes
 32414636;05.05.2500;Rubems Lopez;RUBENTEXMEX
 870097;05.05.2500;Rogerio Ferreira Santos;unisatclick
-195886143;05.05.2500;Karlos Anastas;karlosanastas
+480314781;05.05.2500;Karlos Anastas;karlosanastas
 45414636;05.05.2500;Ciro Welligton dos Reis;ciroreis
 26142398;05.05.2500;Marcelo de Souza da Silva;onetradersuporte
 208039;05.05.2500;Marcelo de Souza da Silva;onetradersuporte
