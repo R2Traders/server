@@ -3,6 +3,7 @@ ID;Data;Nome;TLUserName
 55166185;05.05.2500;Ulisses Bernardo de Andrade;gagosp
 202358877;05.05.2500;Renzo Menezes;renzomenezes
 32414636;05.05.2500;Rubems Lopez;RUBENTEXMEX
+61588922;05.05.2500;Gabriel Bonfim de Medeiros;Gabriel_m_Medeiros
 870097;05.05.2500;Rogerio Ferreira Santos;unisatclick
 480314781;05.05.2500;Karlos Anastas;karlosanastas
 45414636;05.05.2500;Ciro Welligton dos Reis;ciroreis
