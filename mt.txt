@@ -16,7 +16,7 @@ ID;Data;Nome;TLUserName
 106564189;05.05.2500;R2;R2Traders
 100269594;05.05.2500;R2 PC;R2Traders
 62140589;05.05.2500;R2 (2);R2Traders
-100269594;05.05.2500;R2 (VPS);R2Traders
+100269593;05.05.2500;R2 (VPS);R2Traders
 27471593;05.05.2500;Flavio Pires de Lima;FLimaDigital
 5039812393;05.05.2500;Jonathan Ribeiro dos Santos (1);jonhr21
 41015413;05.05.2500;Jonathan Ribeiro dos Santos (2);jonhr21
@@ -62,7 +62,7 @@ ID;Data;Nome;TLUserName
 510089689;05.05.2500;Caio Guilherme Oliveira de Souza;CAIOOLIVEIRA97
 40496672;05.05.2500;Luciano Nobre;lulunobre
 90000009;05.05.2500;Renan Oliveira;RenanOliveira31
-90000009;Jose Carlos Miguel;arigatoJapasan
+90000009;05.05.2500;Jose Carlos Miguel;arigatoJapasan
 62022887;05.05.2500;Alexandre Mendes Gallo;alezaotrader
 34655733;05.05.2500;Moises Ferreira Freitas Oliveira;moisesffoliveira
 90596863;05.05.2500;Ricardo Righetti Ramos;RicardoRRamos
