@@ -11,6 +11,7 @@ ID;Data;Nome;TLUserName
 208039;05.05.2500;Marcelo de Souza da Silva;onetradersuporte
 10308518;05.05.2500;Norberto Paulino de Oliveira;NorbertoOliveira66
 32385361;05.05.2500;Andre Luiz Delunardo Pereira;aldelunardo
+77385361;05.05.2500;Wanderson Correa Da Dosta;WandersonCC
 510089879;05.05.2500;Mauricio do Amaral Constantino;Mauriciotrade
 106564189;05.05.2500;R2;R2Traders
 106564189;05.05.2500;R2;R2Traders
