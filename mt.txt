@@ -72,7 +72,7 @@ ID;Data;Nome;TLUserName
 90596863;05.05.2500;Ricardo Righetti Ramos;RicardoRRamos
 7137644;05.05.2500;Mojtaba Tavaf;BINOPTSIG
 130067967;05.05.2500;Rodrigo de Aquino Sousa;Aquino_Trader
-62137143;05.05.2500;Olisses Neto;olissesneto
+62137143;05.05.2500;Olisses Neto;mcflygamez
 40348829;05.05.2500;Malone Reis;Malone_Silva
 202582360;05.05.2500;Dilpreet Singh;Preet12qw
 5598680;05.05.2500;Manoel Alves Sobral Jr;JrSobral
