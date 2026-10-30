@@ -12,7 +12,6 @@ ID;Data;Nome;TLUserName
 114431222;05.05.2500;Caio Rocha;CaioTraders
 26142398;05.05.2500;Marcelo de Souza da Silva;onetradersuporte
 208039;05.05.2500;Marcelo de Souza da Silva;onetradersuporte
-10308518;05.05.2500;Norberto Paulino de Oliveira;NorbertoOliveira66
 32385361;05.05.2500;Andre Luiz Delunardo Pereira;aldelunardo
 106789702;05.05.2500;Wanderson Correa Da Dosta;WandersonCC
 510089879;05.05.2500;Mauricio do Amaral Constantino;Mauriciotrade
