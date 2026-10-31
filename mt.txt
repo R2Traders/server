@@ -15,7 +15,7 @@ ID;Data;Nome;TLUserName
 32385361;05.05.2500;Andre Luiz Delunardo Pereira;aldelunardo
 106789702;05.05.2500;Wanderson Correa Da Dosta;WandersonCC
 510089879;05.05.2500;Mauricio do Amaral Constantino;Mauriciotrade
-106564189;05.05.2500;R2;R2Traders
+106563189;05.05.2500;R2;R2Traders
 106564189;05.05.2500;R2;R2Traders
 100269594;05.05.2500;R2 PC;R2Traders
 62140589;05.05.2500;R2 (2);R2Traders
@@ -34,10 +34,10 @@ ID;Data;Nome;TLUserName
 40679900;05.05.2500;Adriano Honorio Batista;adrianobatista_5
 822446;05.05.2500;Rafael Miranda;noodle1987
 195479753;05.05.2500;Paulo Henrique Corato Gabriel;PAULOCORATO
-90000009;05.05.2500;Willian Henrique Coelho de Faria;Willian_33
-90000009;05.05.2500;Jean Carlos Mazo;KarlKingVIP
-90000009;05.05.2500;Ruben Lopez (1);RUBENTEXMEX
-90000009;05.05.2500;Ruben Lopez (2);RUBENTEXMEX
+91000009;05.05.2500;Willian Henrique Coelho de Faria;Willian_33
+90100009;05.05.2500;Jean Carlos Mazo;KarlKingVIP
+90200009;05.05.2500;Ruben Lopez (1);RUBENTEXMEX
+90003009;05.05.2500;Ruben Lopez (2);RUBENTEXMEX
 83118396;05.05.2500;Renan Oliveira;RenanOliveira31
 10308518;05.05.2500;Norberto Paulino de Oliveira;NorbertoOliveira66
 62136873;05.05.2500;Vando Jose dos Santos de Almeida;vandofiel
@@ -47,15 +47,15 @@ ID;Data;Nome;TLUserName
 40497474;05.05.2500;Renier de Souza Santos Filho;souzarenier
 40651185;05.05.2500;Carlos Ka;Carlosp298
 106760242;05.05.2500;Marcelo Cardoso;MarceloCardoso13
-62119769;05.05.2500;Charles Sousa de Jesus;charlespjo
+63119769;05.05.2500;Charles Sousa de Jesus;charlespjo
 50096830;05.05.2500;Ademir dos Santos Silva;Ad3myr
-40510161;05.05.2500;Lucio Adalberto Santos Filho;LucioSantos18
-90000009;05.05.2500;Wellington Alves de Souza;Group_Beast
+40510162;05.05.2500;Lucio Adalberto Santos Filho;LucioSantos18
+90000409;05.05.2500;Wellington Alves de Souza;Group_Beast
 31325435;05.05.2500;Junior Pepy;jrpepy
 5698641;05.05.2500;Willian Martins Rodrigues;DougPix
 101465534;05.05.2500;Jose Roberto Ferreira de Carvalho;codeteles
-90000009;05.05.2500;Eldon;eldonmp
-90000009;05.05.2500;Gunaseelan Karthik;EXCHANGEMINDS
+98000009;05.05.2500;Eldon;eldonmp
+98000009;05.05.2500;Gunaseelan Karthik;EXCHANGEMINDS
 41257249;05.05.2500;Vitor Costa;Vitorcosta2021
 90000009;05.05.2500;Rodrigo Santos;rodrigo_pk
 201959808;05.05.2500;Ekuikui Jose Andre Miranda;Apockryphus
@@ -92,7 +92,7 @@ ID;Data;Nome;TLUserName
 130060536;05.05.2500;Renato Rocha;renatorocha44
 480242739;05.05.2500;Aguinaldo da Silva Maza;AguinaldoMazza
 960017020;05.05.2500;Ciobanu Cosmin;Cosminteofil6
-40651185;05.05.2500;Carlos Ka;Carlosp298
+42651185;05.05.2500;Carlos Ka;Carlosp298
 98936576;05.05.2500;Faisal Ahmed Roman;brunolmfao
 514245923;05.05.2500;Luiz Nelson Duarte de Carvalho;luneducar
 62152868;05.05.2500;Tiago Costa de Oliveira;tiagocdlv
