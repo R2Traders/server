@@ -78,7 +78,7 @@ ID;Data;Nome;TLUserName
 120492;05.05.2500;George Gomes Santana;georgeikki
 31802247;05.05.2500;Jefferson Douglas;JeffersonDSantoss
 90000009;05.05.2500;Marcos Vinicius;analistamarcos
-40349626;05.05.2500;Abel Andrade;cariocap
+32480218;05.05.2500;Abel Andrade;cariocap
 195201205;05.05.2500;Douglas Moreira Nunes;dougpips
 5633955;05.05.2500;Eduardo Hitoshi Otsuka;EduardoOtk
 40497901;05.05.2500;Alexsandro Henrique da Silva;allexhenrique
