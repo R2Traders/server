@@ -126,3 +126,4 @@ ID;Data;Nome;TLUserName
 52039858;05.05.2500;Diego Luiz Pelegrini;DiegoLuizPelegrini
 169716191;18.12.2026;Rodrigo Marciano Henrique;Rodrigo01trader
 13245678;05.05.2500;Jefferson Gomes de Souza;JeffersonSouza_SP
+654321;05.05.2500;Junior Cesar Batista;Suporte_on_BR
