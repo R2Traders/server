@@ -127,5 +127,5 @@ ID;Data;Nome;TLUserName
 169716191;18.12.2026;Rodrigo Marciano Henrique;Rodrigo01trader
 32489174;05.05.2500;Jefferson Gomes de Souza;JeffersonSouza_SP
 28706801;05.05.2500;Junior Cesar Batista;Suporte_on_BR
-43527169;05.05.2500;Lucca da Silva Lanes;Luccalanes
+140810177;05.05.2500;Lucca da Silva Lanes;Luccalanes
 87651234;05.05.2500;Samuel Garcia;sama900000
